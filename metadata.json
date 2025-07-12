@@ -20,6 +20,7 @@
         "Version": "1.0",
         "Website": "https://github.com/rickybrent/plasmoid-digital-clock-debarred"
     },
+    "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-MainScript": "ui/main.qml",
     "X-Plasma-Provides": [
         "org.kde.plasma.time",
